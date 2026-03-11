@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Audrey Song
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Audrey Song
+description              : Audrey Song - Projects and CV 
+baseurl                  : "sp26-portfolio-as4472" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal

@@ -1,0 +1,20 @@
+---
+layout: project
+title: Nutcracker Project
+description: Portfolio of my nutcracker design
+technologies: [n/a]
+image: /assets/images/diagram.png
+---
+
+
+Find:
+Design a nutcracker using a simple lever nut cracker and a linear actuator relying on grip strength to apply the input force. 
+
+Given:
+The design must be able to crack a macadamia nut (approx. 15mm in diameter). The provided grip force is approximately 100lbf on each handle. Macadamia nut hardness is approx. 222kg= 490lbf
+
+Approach:
+I began by calculating the work done by the grip force using the approximate grip force strength and lever arm to assess if the previous design is effective and what changes must be made. 
+
+Discussion of Usability:
+After calculating the work done by the grip forces applied at the two lever arms I found that there is enough of a mechanical advantage to crack open the macadamia nut. The addition of the linear actuator allows to user to input less grip force to crack the nut requiring less effort from the user improving the design.
